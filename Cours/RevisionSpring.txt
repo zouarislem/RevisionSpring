@@ -1,0 +1,6 @@
+spring = {} ensemble de projets
+spring boot -> Av - serveur web embarqué (Tomcat) spring web
+		  -Gestion des dependances (pom.xml)
+		  -App.propr-> auto Config 
+Spring Data Jpa => bd relationelle 
+ 	

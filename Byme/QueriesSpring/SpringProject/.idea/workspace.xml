@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="727b2dbd-4d08-4cf4-afc7-8037612aaa4e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2KliTiU6XglGGgEuvDcisVWUm12" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/PetPalooza&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;34c18ec37a58f1e641f2882bf63aed1f&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.springproject.SpringProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="727b2dbd-4d08-4cf4-afc7-8037612aaa4e" name="Changes" comment="" />
+      <created>1674555580776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674555580776</updated>
+      <workItem from="1674555582304" duration="2334000" />
+      <workItem from="1674634403500" duration="596000" />
+      <workItem from="1674778604147" duration="15000" />
+      <workItem from="1675153116456" duration="1759000" />
+      <workItem from="1675154886771" duration="4502000" />
+      <workItem from="1675449701508" duration="22000" />
+      <workItem from="1675501613110" duration="304000" />
+      <workItem from="1675757708206" duration="7306000" />
+      <workItem from="1676128610856" duration="23000" />
+      <workItem from="1676312033877" duration="84000" />
+      <workItem from="1676362267200" duration="7183000" />
+      <workItem from="1676821035754" duration="700000" />
+      <workItem from="1676894645987" duration="22000" />
+      <workItem from="1676896271947" duration="9000" />
+      <workItem from="1676966370125" duration="5151000" />
+      <workItem from="1676988233639" duration="9099000" />
+      <workItem from="1677448320563" duration="16000" />
+      <workItem from="1677501612756" duration="15000" />
+      <workItem from="1677571921090" duration="8109000" />
+      <workItem from="1677766012049" duration="2000" />
+      <workItem from="1677796281941" duration="616000" />
+      <workItem from="1677956354288" duration="598000" />
+      <workItem from="1678106996667" duration="194000" />
+      <workItem from="1678176870228" duration="2364000" />
+      <workItem from="1678179855504" duration="2677000" />
+      <workItem from="1678188936328" duration="1000" />
+      <workItem from="1678634120385" duration="1000" />
+      <workItem from="1678640076465" duration="2044000" />
+      <workItem from="1678783367074" duration="5239000" />
+      <workItem from="1678807478416" duration="85000" />
+      <workItem from="1678807691607" duration="23000" />
+      <workItem from="1679352818479" duration="55000" />
+      <workItem from="1679400449710" duration="4667000" />
+      <workItem from="1679782868973" duration="2577000" />
+      <workItem from="1679837815576" duration="1433000" />
+      <workItem from="1679967385780" duration="4469000" />
+      <workItem from="1680028788400" duration="582000" />
+      <workItem from="1680065127660" duration="11000" />
+      <workItem from="1680595830403" duration="72000" />
+      <workItem from="1680597048542" duration="4696000" />
+      <workItem from="1681198611665" duration="4205000" />
+      <workItem from="1681338629601" duration="37000" />
+      <workItem from="1681575309597" duration="444000" />
+      <workItem from="1681675739296" duration="2358000" />
+      <workItem from="1681806158726" duration="5245000" />
+      <workItem from="1681839065263" duration="10000" />
+      <workItem from="1682412024480" duration="7694000" />
+      <workItem from="1682451552203" duration="85000" />
+      <workItem from="1683026565875" duration="16000" />
+      <workItem from="1683316740265" duration="2745000" />
+      <workItem from="1683323768168" duration="1975000" />
+      <workItem from="1683367925822" duration="44000" />
+      <workItem from="1683387502348" duration="143000" />
+      <workItem from="1683471454470" duration="28000" />
+      <workItem from="1683473712539" duration="8000" />
+      <workItem from="1683562477242" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringProject$SpringProjectApplication.ic" NAME="SpringProjectApplication Coverage Results" MODIFIED="1676997531657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
